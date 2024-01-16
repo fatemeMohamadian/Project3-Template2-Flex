@@ -2,10 +2,10 @@
 
 **This Is a Simple Template2 With Flex!Thank You For Watching😊**
 
-![1](https://github.com/fatemeMohamadian/Project2-Template1-Flex/assets/155579918/1a990217-eea2-42f1-a9d1-0dc83daf084d)
+![1](https://github.com/fatemeMohamadian/Project3-Template2-Flex/assets/155579918/296ad591-a4b1-4dda-96be-261c42ddf5ee)
 
 
-![2](https://github.com/fatemeMohamadian/Project2-Template1-Flex/assets/155579918/57989b6e-b1f0-4b72-ac70-7fdd416a51a6)
+![2](https://github.com/fatemeMohamadian/Project3-Template2-Flex/assets/155579918/7174cc15-3413-40a9-bce6-471b9e27c26c)
 
 
 👩‍💻😎[Demo Project](https://fatememohamadian.github.io/Project3-Template2-Flex/index.html)
